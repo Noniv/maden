@@ -9,8 +9,8 @@
 
 <nav
   class={navOpened
-    ? "flex flex-col justify-center h-screen fixed inset-0 lg:flex-row lg:justify-between lg:items-center lg:h-16 lg:px-4"
-    : "flex justify-between px-4 h-16 lg:flex-row lg:items-center"}
+    ? "flex flex-col justify-center h-screen fixed inset-0 bg-white lg:flex-row lg:justify-between lg:items-center lg:h-16 lg:px-4"
+    : "flex justify-between px-4 h-16 bg-white lg:flex-row lg:items-center"}
 >
   <div
     class="left-0 top-0 z-20 p-4 text-2xl font-medium fixed lg:static lg:px-0"
@@ -22,16 +22,16 @@
       ? "flex flex-col gap-4 text-center text-xl lg:flex-row lg:text-base lg:gap-6"
       : "text-xs hidden lg:flex lg:flex-row lg:gap-6 lg:text-base"}
   >
-    <NavbarLink text="Strona główna" to="" />
-    <NavbarLink text="Oferta" to="oferta" />
-    <NavbarLink text="Galeria" to="galeria" />
-    <NavbarLink text="Cennik" to="cennik" />
-    <NavbarLink text="Zespół" to="zespol" />
-    <NavbarLink text="Certyfikaty" to="certyfikaty" />
-    <NavbarLink text="Kontakt" to="kontakt" />
-    <NavbarLink text="Lokalizacja" to="lokalizacja" />
-    <NavbarLink text="Oferty pracy" to="praca" />
-    <NavbarLink text="Kontakt" to="kontakt" />
+    <NavbarLink on:linkClicked={switchNav} text="Strona główna" to="" />
+    <NavbarLink on:linkClicked={switchNav} text="Oferta" to="oferta" />
+    <NavbarLink on:linkClicked={switchNav} text="Galeria" to="galeria" />
+    <NavbarLink on:linkClicked={switchNav} text="Cennik" to="cennik" />
+    <NavbarLink on:linkClicked={switchNav} text="Zespół" to="zespol" />
+    <NavbarLink on:linkClicked={switchNav} text="Certyfikaty" to="certyfikaty" />
+    <NavbarLink on:linkClicked={switchNav} text="Kontakt" to="kontakt" />
+    <NavbarLink on:linkClicked={switchNav} text="Lokalizacja" to="lokalizacja" />
+    <NavbarLink on:linkClicked={switchNav} text="Oferty pracy" to="praca" />
+    <NavbarLink on:linkClicked={switchNav} text="Kontakt" to="kontakt" />
   </ul>
   <button class="right-0 top-0 p-4 fixed z-20 lg:hidden" on:click={switchNav}>
     {#if navOpened}
