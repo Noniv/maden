@@ -10,21 +10,25 @@
   import Pricing from "./routes/Pricing.svelte";
   import Team from "./routes/Team.svelte";
   import Work from "./routes/Work.svelte";
+  import Reviews from "./routes/Reviews.svelte";
 </script>
 
-<main>
-  <Navbar />
-  <Router
-    routes={{
-      "/": Home,
-      "/certyfikaty": Certificates,
-      "/kontakt": Contact,
-      "/galeria": Gallery,
-      "/lokalizacja": Localisation,
-      "/oferta": Offer,
-      "/cennik": Pricing,
-      "/zespol": Team,
-      "/praca": Work,
-    }}
-  />
-</main>
+<svelte:head>
+	<title>Maden - salon fryzjerski</title>
+</svelte:head>
+
+<Navbar />
+<Router
+  routes={{
+    "/": Home,
+    "/certyfikaty": Certificates,
+    "/kontakt": Contact,
+    "/galeria": Gallery,
+    "/lokalizacja": Localisation,
+    "/oferta": Offer,
+    "/cennik": Pricing,
+    "/zespol": Team,
+    "/praca": Work,
+    "/opinie": Reviews
+  }}
+/>

@@ -10,6 +10,6 @@
   }
 </script>
 
-<li class="hover:text-orange-400">
+<li class="hover:text-yellow-700">
   <a href={"/#/" + to} on:click={handleClick}>{text}</a>
 </li>

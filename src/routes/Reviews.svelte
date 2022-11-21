@@ -1,8 +1,8 @@
 <script>
-  import Heading from "../components/Heading.svelte";
   import ContentContainer from "../components/ContentContainer.svelte";
-</script>
+  import Heading from "../components/Heading.svelte";
 
+</script>
 <ContentContainer>
-  <Heading level="1">Certyfikaty</Heading>
+  <Heading level="1">Opinie</Heading>
 </ContentContainer>
