@@ -27,8 +27,8 @@
     <PricingItem service="Keratynowe prostowanie włosów" price="600" />
     <PricingItem service="Olejowanie włosów" price="200" />
   </ul>
+  <Heading level="2" className="mt-8 mb-4 lg:mt-16">Fryzjer męski</Heading>
   <ul>
-    <Heading level="2" className="mt-8 mb-4 lg:mt-16">Fryzjer męski</Heading>
     <PricingItem service="Strzyżenie męskie maszynką" price="50" />
     <PricingItem service="Strzyżenie męskie" price="60" />
     <PricingItem service="Strzyżenie męskie długie włosy" price="100" />
