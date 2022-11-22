@@ -10,30 +10,29 @@
     Zapraszamy do współpracy!
   </p>
   <JobOffer job="Fryzjer męski">
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas rem harum amet
-    earum optio perspiciatis sed, veniam quam impedit itaque ullam nam assumenda
-    nemo tempore dolorem delectus vel enim repudiandae? Lorem ipsum dolor sit
-    amet consectetur adipisicing elit. Molestiae itaque asperiores fugiat, natus
-    ratione est eveniet eos eaque aliquid minima dolorem, tempore voluptate
-    maiores labore facilis molestias debitis voluptas ipsa!
+    Oferujemy bardzo atrakcyjny system wynagrodzenia, możliwość szkoleń i
+    stałego rozwoju z zakresu koloryzacji, strzyżeń, upięć oraz przemiłą
+    atmosfera w zgranym i pomocnym zespole. Oczekujemy doświadczenia w zawodzie,
+    pozytywnego nastawienia i chęci do pracy, nienagannej kultury osobistej,
+    punktualności, zaangażowania i chęci budowania relacji z klientami oraz
+    umiejętności pracy w zespole.
   </JobOffer>
   <JobOffer job="Fryzjer damski">
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas rem harum amet
-    earum optio perspiciatis sed, veniam quam impedit itaque ullam nam assumenda
-    nemo tempore dolorem delectus vel enim repudiandae? Lorem ipsum dolor sit
-    amet consectetur adipisicing elit. Molestiae itaque asperiores fugiat, natus
-    ratione est eveniet eos eaque aliquid minima dolorem, tempore voluptate
-    maiores labore facilis molestias debitis voluptas ipsa!
+    Oferujemy bardzo atrakcyjny system wynagrodzenia, możliwość szkoleń i
+    stałego rozwoju z zakresu koloryzacji, strzyżeń, upięć oraz przemiłą
+    atmosfera w zgranym i pomocnym zespole. Oczekujemy doświadczenia w zawodzie,
+    pozytywnego nastawienia i chęci do pracy, nienagannej kultury osobistej,
+    punktualności, zaangażowania i chęci budowania relacji z klientami oraz
+    umiejętności pracy w zespole.
   </JobOffer>
   <JobOffer job="Specjalista ds. marketingu">
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas rem harum amet
-    earum optio perspiciatis sed, veniam quam impedit itaque ullam nam assumenda
-    nemo tempore dolorem delectus vel enim repudiandae? Lorem ipsum dolor sit
-    amet consectetur adipisicing elit. Molestiae itaque asperiores fugiat, natus
-    ratione est eveniet eos eaque aliquid minima dolorem, tempore voluptate
-    maiores labore facilis molestias debitis voluptas ipsa!
+    W związku z dynamicznym rozwojem salonu, poszukujemy osoby na stanowisko
+    Specjalisty/ki ds. Marketingu. Jeżeli jesteś charyzmatyczny/a, ambitny/a i
+    proaktywny/a w działaniu, posiadasz doświadczenie w prowadzeniu
+    internetowych kampanii marketingowych i masz poczucie estetyki oraz
+    rozumiesz potrzeby klientów, to idealnie sprawdzisz się w tej pracy.
   </JobOffer>
   <p class="my-8 text-center text-lg font-semibold lg:text-2xl">
-    Zgłoszenia prosimy wysyłać na adres e-mail: <br> maden.kariera@gmail.com
+    Zgłoszenia prosimy wysyłać na adres e-mail: <br /> maden.kariera@gmail.com
   </p>
 </ContentContainer>
