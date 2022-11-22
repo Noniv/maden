@@ -24,11 +24,10 @@
   >
     <NavbarLink on:linkClicked={switchNav} text="Strona główna" to="" />
     <NavbarLink on:linkClicked={switchNav} text="Oferta" to="oferta" />
-    <NavbarLink on:linkClicked={switchNav} text="Galeria" to="galeria" />
     <NavbarLink on:linkClicked={switchNav} text="Cennik" to="cennik" />
+    <NavbarLink on:linkClicked={switchNav} text="Galeria" to="galeria" />
     <NavbarLink on:linkClicked={switchNav} text="Zespół" to="zespol" />
     <NavbarLink on:linkClicked={switchNav} text="Certyfikaty" to="certyfikaty" />
-    <NavbarLink on:linkClicked={switchNav} text="Opinie" to="opinie" />
     <NavbarLink on:linkClicked={switchNav} text="Lokalizacja" to="lokalizacja" />
     <NavbarLink on:linkClicked={switchNav} text="Oferty pracy" to="praca" />
     <NavbarLink on:linkClicked={switchNav} text="Kontakt" to="kontakt" />
