@@ -32,4 +32,5 @@
     "/zespol/:id": TeamMember,
     "/praca": Work,
   }}
+  restoreScrollState={true}
 />
