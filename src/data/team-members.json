@@ -2,31 +2,43 @@
   {
     "id": 1,
     "name": "Joanna Kowalska",
-    "image": "hairdresser-2.jpg"
+    "image": "hairdresser-2.webp",
+    "services": ["Strzyżenie damskie", "Strzyżenie męskie", "Farbowanie włosów"],
+    "description": "Mam na imię Joanna Kowalska. Jestem fryzjerem z 6-letnim doświadczeniem w zawodzie. Zaangażowanie w potrzeby i wymagania swoich klientów to dla mnie podstawa. Oferuję takie usługi jak strzyżenie damskie i męskie oraz farbowanie włosów. Jestem malarzem-hobbystą. Tworzę obrazy w technice akwarelowej, z których spora część zdobi wnętrza salonu, w którym obecnie pracuję. Wierzę, że mój zmysł estetyczny objawia się również na co dzień podczas tworzenia fryzur dla moich klientów. Skończyłem Technikum fryzjerskie we Wrocławiu na specjalizacji technik usług fryzjerskich."
   },
   {
     "id": 2,
     "name": "Michał Kowalski",
-    "image": "hairdresser-1.jpg"
+    "image": "hairdresser-1.webp",
+    "services": ["Strzyżenie damskie", "Strzyżenie męskie", "Farbowanie włosów", "Olejowanie włosów"],
+    "description": "Mam na imię Michał Kowalski. Jestem fryzjerem z 6-letnim doświadczeniem w zawodzie. Zaangażowanie w potrzeby i wymagania swoich klientów to dla mnie podstawa. Oferuję takie usługi jak strzyżenie damskie i męskie oraz farbowanie włosów. Jestem malarzem-hobbystą. Tworzę obrazy w technice akwarelowej, z których spora część zdobi wnętrza salonu, w którym obecnie pracuję. Wierzę, że mój zmysł estetyczny objawia się również na co dzień podczas tworzenia fryzur dla moich klientów. Skończyłem Technikum fryzjerskie we Wrocławiu na specjalizacji technik usług fryzjerskich."
   },
   {
     "id": 3,
     "name": "Jan Cichy",
-    "image": "hairdresser-1.jpg"
+    "image": "hairdresser-1.webp",
+    "services": ["Strzyżenie damskie", "Strzyżenie męskie", "Farbowanie włosów", "Dekoloryzacja"],
+    "description": "Mam na imię Jan Cichy. Jestem fryzjerem z 6-letnim doświadczeniem w zawodzie. Zaangażowanie w potrzeby i wymagania swoich klientów to dla mnie podstawa. Oferuję takie usługi jak strzyżenie damskie i męskie oraz farbowanie włosów. Jestem malarzem-hobbystą. Tworzę obrazy w technice akwarelowej, z których spora część zdobi wnętrza salonu, w którym obecnie pracuję. Wierzę, że mój zmysł estetyczny objawia się również na co dzień podczas tworzenia fryzur dla moich klientów. Skończyłem Technikum fryzjerskie we Wrocławiu na specjalizacji technik usług fryzjerskich."
   },
   {
     "id": 4,
     "name": "Stefania Pracowita",
-    "image": "hairdresser-2.jpg"
+    "image": "hairdresser-2.webp",
+    "services": ["Strzyżenie damskie", "Strzyżenie męskie", "Farbowanie włosów", "Upięcia"],
+    "description": "Mam na imię Stefania Pracowita. Jestem fryzjerem z 6-letnim doświadczeniem w zawodzie. Zaangażowanie w potrzeby i wymagania swoich klientów to dla mnie podstawa. Oferuję takie usługi jak strzyżenie damskie i męskie oraz farbowanie włosów. Jestem malarzem-hobbystą. Tworzę obrazy w technice akwarelowej, z których spora część zdobi wnętrza salonu, w którym obecnie pracuję. Wierzę, że mój zmysł estetyczny objawia się również na co dzień podczas tworzenia fryzur dla moich klientów. Skończyłem Technikum fryzjerskie we Wrocławiu na specjalizacji technik usług fryzjerskich."
   },
   {
     "id": 5,
     "name": "Agnieszka Dendura",
-    "image": "hairdresser-2.jpg"
+    "image": "hairdresser-2.webp",
+    "services": ["Strzyżenie damskie", "Strzyżenie męskie", "Farbowanie włosów", "Dopinanie tresek"],
+    "description": "Mam na imię Agnieszka Dendura. Jestem fryzjerem z 6-letnim doświadczeniem w zawodzie. Zaangażowanie w potrzeby i wymagania swoich klientów to dla mnie podstawa. Oferuję takie usługi jak strzyżenie damskie i męskie oraz farbowanie włosów. Jestem malarzem-hobbystą. Tworzę obrazy w technice akwarelowej, z których spora część zdobi wnętrza salonu, w którym obecnie pracuję. Wierzę, że mój zmysł estetyczny objawia się również na co dzień podczas tworzenia fryzur dla moich klientów. Skończyłem Technikum fryzjerskie we Wrocławiu na specjalizacji technik usług fryzjerskich."
   },
   {
     "id": 6,
     "name": "Kamil Nowicki",
-    "image": "hairdresser-1.jpg"
+    "image": "hairdresser-1.webp",
+    "services": ["Strzyżenie damskie", "Strzyżenie męskie", "Farbowanie włosów", "Modelowanie"],
+    "description": "Mam na imię Kamil Nowicki. Jestem fryzjerem z 6-letnim doświadczeniem w zawodzie. Zaangażowanie w potrzeby i wymagania swoich klientów to dla mnie podstawa. Oferuję takie usługi jak strzyżenie damskie i męskie oraz farbowanie włosów. Jestem malarzem-hobbystą. Tworzę obrazy w technice akwarelowej, z których spora część zdobi wnętrza salonu, w którym obecnie pracuję. Wierzę, że mój zmysł estetyczny objawia się również na co dzień podczas tworzenia fryzur dla moich klientów. Skończyłem Technikum fryzjerskie we Wrocławiu na specjalizacji technik usług fryzjerskich."
   }
 ]

@@ -11,7 +11,11 @@
     class="flex flex-col justify-center items-center gap-x-4 gap-y-12 mx-auto md:flex-row md:flex-wrap lg:max-w-4xl"
   >
     {#each teamMembers as member (member.id)}
-      <TeamMember src={"img/" + member.image} name={member.name}/>
+      <TeamMember
+        src={"img/" + member.image}
+        name={member.name}
+        id={member.id}
+      />
     {/each}
   </div>
 </ContentContainer>
