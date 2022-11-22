@@ -11,5 +11,11 @@
     <img src="img/photo-1.webp" alt="a" class="md:w-64" />
     <img src="img/photo-2.jpeg" alt="a" class="md:w-64" />
     <img src="img/photo-3.jpeg" alt="a" class="md:w-64" />
+    <img src="img/photo-2.jpeg" alt="a" class="md:w-64" />
+    <img src="img/photo-3.jpeg" alt="a" class="md:w-64" />
+    <img src="img/photo-1.webp" alt="a" class="md:w-64" />
+    <img src="img/photo-3.jpeg" alt="a" class="md:w-64" />
+    <img src="img/photo-1.webp" alt="a" class="md:w-64" />
+    <img src="img/photo-2.jpeg" alt="a" class="md:w-64" />
   </div></ContentContainer
 >

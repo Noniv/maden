@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Joanna Kowalska",
+    "image": "hairdresser-2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Michał Kowalski",
+    "image": "hairdresser-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Jan Cichy",
+    "image": "hairdresser-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Stefania Pracowita",
+    "image": "hairdresser-2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Agnieszka Dendura",
+    "image": "hairdresser-2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Kamil Nowicki",
+    "image": "hairdresser-1.jpg"
+  }
+]
