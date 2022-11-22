@@ -10,11 +10,12 @@
   import Pricing from "./routes/Pricing.svelte";
   import Team from "./routes/Team.svelte";
   import Work from "./routes/Work.svelte";
-  import Reviews from "./routes/Reviews.svelte";
+  import TeamMember from "./routes/TeamMember.svelte";
 </script>
 
 <svelte:head>
 	<title>Maden - salon fryzjerski</title>
+  <meta name="description" content="Maden - salon fryzjerski" />
 </svelte:head>
 
 <Navbar />
@@ -28,7 +29,7 @@
     "/oferta": Offer,
     "/cennik": Pricing,
     "/zespol": Team,
+    "/zespol/:id": TeamMember,
     "/praca": Work,
-    "/opinie": Reviews
   }}
 />
