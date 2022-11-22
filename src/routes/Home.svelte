@@ -1,6 +1,10 @@
+<script>
+  import LinkButton from "../components/LinkButton.svelte";
+</script>
+
 <div class="relative h-screen">
   <div
-    style="background-image: url(img/hero.jpg);"
+    style="background-image: url(img/hero.webp);"
     class="bg-no-repeat bg-cover bg-center brightness-[35%] absolute inset-0 -z-10"
   />
   <div
@@ -10,11 +14,11 @@
       Ma<span class="text-yellow-700">den</span>
     </h1>
     <div class="font-bold tracking-wider">Wyjątkowe fryzury</div>
-    <a
+    <LinkButton
       href="/#/oferta"
-      class="text-white bg-yellow-700 py-3 px-6 block w-fit rounded-full text-2xl animate-bounce-slow hover:bg-yellow-800"
-      >Zobacz ofertę</a
-    >
+      content="Zobacz ofertę"
+      className="animate-bounce-slow"
+    />
   </div>
   <div class="absolute left-4 bottom-4 text-white animate-fade-in">
     tel.: +48 123 456 789 <br />
