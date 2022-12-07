@@ -5,6 +5,9 @@
   const switchNav = () => {
     navOpened = !navOpened;
   };
+  const closeNav = () => {
+    navOpened = false;
+  }
 </script>
 
 <nav
@@ -22,15 +25,15 @@
       ? "animate-fade-in flex flex-col gap-4 text-center text-xl lg:flex-row lg:text-base lg:gap-6 lg:animate-none xl:text-xl"
       : "hidden lg:flex lg:flex-row lg:gap-6 lg:text-base xl:text-xl"}
   >
-    <NavbarLink on:linkClicked={switchNav} text="Strona główna" to="" />
-    <NavbarLink on:linkClicked={switchNav} text="Oferta" to="oferta" />
-    <NavbarLink on:linkClicked={switchNav} text="Cennik" to="cennik" />
-    <NavbarLink on:linkClicked={switchNav} text="Galeria" to="galeria" />
-    <NavbarLink on:linkClicked={switchNav} text="Zespół" to="zespol" />
-    <NavbarLink on:linkClicked={switchNav} text="Certyfikaty" to="certyfikaty" />
-    <NavbarLink on:linkClicked={switchNav} text="Lokalizacja" to="lokalizacja" />
-    <NavbarLink on:linkClicked={switchNav} text="Oferty pracy" to="praca" />
-    <NavbarLink on:linkClicked={switchNav} text="Kontakt" to="kontakt" />
+    <NavbarLink on:linkClicked={closeNav} text="Strona główna" to="" />
+    <NavbarLink on:linkClicked={closeNav} text="Oferta" to="oferta" />
+    <NavbarLink on:linkClicked={closeNav} text="Cennik" to="cennik" />
+    <NavbarLink on:linkClicked={closeNav} text="Galeria" to="galeria" />
+    <NavbarLink on:linkClicked={closeNav} text="Zespół" to="zespol" />
+    <NavbarLink on:linkClicked={closeNav} text="Certyfikaty" to="certyfikaty" />
+    <NavbarLink on:linkClicked={closeNav} text="Lokalizacja" to="lokalizacja" />
+    <NavbarLink on:linkClicked={closeNav} text="Oferty pracy" to="praca" />
+    <NavbarLink on:linkClicked={closeNav} text="Kontakt" to="kontakt" />
   </ul>
   <button class="right-0 top-0 p-4 fixed z-20 lg:hidden" on:click={switchNav} aria-label="Przełącz nawigację">
     {#if navOpened}
